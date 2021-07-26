@@ -1,3 +1,4 @@
-/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/StepDefs/ProductSteps.java
-/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/StepDefs/BaseClass.java
-/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/StepDefs/Loginsteps.java
+/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/stepDefs/BaseClass.java
+/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/stepDefs/LoginSteps.java
+/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/stepDefs/TestRunner.java
+/home/mgayathricse91g/eclipse-workspace/Phase2_Project/src/test/java/stepDefs/ProductSteps.java
